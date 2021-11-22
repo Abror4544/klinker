@@ -57,7 +57,7 @@
 }
 
 .header {
-  background: url(../../images/headerbg.png) no-repeat center center/cover;
+  background: url(../images/headerbg.png) no-repeat center center/cover;
   height: 100vh;
 }
 
@@ -145,7 +145,7 @@
 }
 
 .header.production {
-  background: url(../../images/prodbg.png) no-repeat center center/cover;
+  background: url(../images/prodbg.png) no-repeat center center/cover;
 }
 
 .header.production .header-content {
